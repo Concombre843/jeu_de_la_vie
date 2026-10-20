@@ -1,0 +1,9 @@
+[package]
+name = "macro_game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+egui-macroquad = "0.17.3"
+macroquad = "0.4.16"
+rand = "0.10.3"
